@@ -1,0 +1,11 @@
+.despre-echipa {
+    width: 100%;
+}
+
+.despre-echipa * {
+    width: 100%;
+}
+
+.despre-echipa img {
+    height: 18rem;
+}
